@@ -1,1 +1,1 @@
-# Peptide-to-SMILES-conversion
+The previous file contained peptide sequences. This peptide sequences can't be used for ADMET profiling. For this profiling SMILS format needs to upload. So here I use "redkit" tool which converts the FASTA sequences into SMILS format and will store into an output file. After that the file has been saved into csv format. This file can be directly used for ADMET prediction 
